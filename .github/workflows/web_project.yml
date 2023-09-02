@@ -33,7 +33,7 @@ jobs:
         subject: Automated Test Report
         body: |
           Hi,
-          Please find attached the automated test reportt.
+          Please find attached the automated test report.
           
 #          file://./build/reports/feature.html
         attachments: ./build/reportss/accountManagerJourney.html
